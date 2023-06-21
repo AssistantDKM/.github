@@ -16,7 +16,6 @@ Check out our [homepage][website] & [documentation][docsWebsite]
 <br />
 
 [![PlayStore](https://github.com/AssistantDKM/.github/blob/main/img/PlayStore.png?raw=true)][googlePlayStore]
-[![AppStore](https://github.com/AssistantDKM/.github/blob/main/img/AppStore.png?raw=true)][appleAppStore]
 [![PWA](https://github.com/AssistantDKM/.github/blob/main/img/webVersion2.png?raw=true)][assistantnmsWebapp]
 
 
